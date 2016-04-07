@@ -2,4 +2,8 @@ Mars is interesting a lot of chocolate bars
 Lots of them
 Getting tired
 At 7.6/7.5 tiredness now.
+<<<<<<< HEAD
 conflicting line
+=======
+The race is on...
+>>>>>>> fe4448a7e98033bb36e29483b5c202d2c9aca01c
